@@ -1,4 +1,4 @@
-# TP1_2022
+# Cosas de la clase
 Sebastian Zaragoza
 <p>
 Manuel Lopez
